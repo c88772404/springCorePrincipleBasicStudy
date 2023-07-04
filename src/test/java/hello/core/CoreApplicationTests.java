@@ -8,7 +8,7 @@ class CoreApplicationTests {
 
     @Test
     void contextLoads() {
-        //this is section 3 ~ 4 branch
+        //this is section 5~6 branch
     }
 
 }
